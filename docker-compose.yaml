@@ -1,0 +1,10 @@
+version: "3.7"
+services:
+  runeguard_docs:
+    image: us-central1-docker.pkg.dev/runeguard/runeguard-website/docs:${VERSION}
+    ports:
+      - "8822:3000"
+    volumes:
+      - "${WORKING_PATH}/build/:/app/build"
+    deploy:
+      replicas: 1
