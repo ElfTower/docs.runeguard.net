@@ -5,4 +5,5 @@ There is no overarching linear narrative the player is forced to follow. The lor
 
 ## Setting
 ![Map](/img/map.jpg)
+
 We start our adventure in Hirelm: A nomad mountain landscape full of peculiar characters, places, and mystiques. The land showcases frozen mountain vistas, lush forests, lakes, mountain springs, waterfalls, and fertile wildlife. It is populated by many races and structures varying from dorf fortresses, human settlements, and wizard towers. Into the mountains of Hirelm lie many subterranean biomes that dig deep into the mountain.

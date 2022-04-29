@@ -1,0 +1,4 @@
+# Staking
+
+## Competitive Staking Pools
+We will be the first to feature competitive staking pools where only those who have collected enough tokens and NFTs can stake. Since our token will only mint at a controlled rate every year, we can launch a minting pool that features multiple levels. Each level would only allow a certain number of users a "seat" so they can earn staking rewards. Users would lock their earned tokens and NFTs into the minting pool contract in hopes to earn a seat. The contract would pick the users that have the largest number of tokens locked in along with the rarest NFTs and award them a seat in a staking pool where they will earn rewards.
