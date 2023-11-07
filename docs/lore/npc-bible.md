@@ -1,16 +1,5 @@
 # NPC Bible
 
-## Races
-* Dorf
-* Middle Dwarf
-* Dero
-* Deep Elf
-* Ratkin
-* Human
-* Dogmen
-* Croblin
-* Kymera
-
 ## Characters
 * Elle Greenwood
     * Race: Human

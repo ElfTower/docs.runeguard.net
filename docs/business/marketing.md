@@ -1,6 +1,4 @@
 # Marketing
-## Promotions
-To help promote the game we intend to offer traditional bounty campaigns on Bitcointalk, along with YouTube, articles/blogs, Reddit campaigns, and Medium campaigns. Additionally we intend on offering bounties to complete artwork for our cards and other assets.
 
 ## Player Retention
 Ideally the players will be able to acquire a plethora of cards from the base set of the game for free. This will allow for a community of players to grow. The players will have enough variety in cards to create decks and play against one another and AI systems. Even though a card is free it doesnt need to be obsolete. This will create a community that’s worth differentiating yourself from by buying premium content.
