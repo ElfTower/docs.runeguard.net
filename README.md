@@ -1,11 +1,17 @@
+[![Deploy to S3](https://github.com/ElfTower/docs.runeguard.net/actions/workflows/deploy-prod.yml/badge.svg?branch=master)](https://github.com/ElfTower/docs.runeguard.net/actions/workflows/deploy-prod.yml)
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+## Requirements
+* NodeJS 18.x
+* NPM
+* Yarn
 
+### Installation
 ```
-$ yarn
+$ yarn install
 ```
 
 ### Local Development
