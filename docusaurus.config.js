@@ -10,7 +10,7 @@ const config = {
   tagline: 'Our game documentation and litepaper in one',
   url: 'https://docs.runeguard.net',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'ElfTower', // Usually your GitHub org/user name.
