@@ -1,6 +1,6 @@
 # Card Minting
 
-When It comes to our cards we want to keep them as unique and valuable to the core gameplay as possible. The core spirit of Runeguard is being a strong trading card game that can stand next to the giants we see on the market today. Given that we are a next generation game built for Web3 we have the opportunity to use these new technologies to bring a real physical trading card game printing model to our digital game. 
+When It comes to our cards we want to keep them as unique and valuable to the core gameplay as possible. The core spirit of Runeguard is being a strong trading card game that can stand next to the giants we see on the market today. Given that we are a next generation game we have the opportunity to use these new technologies to bring a real physical trading card game printing model to our digital game. 
 
 Why would we want to use a traditional card printing model in a digital game you ask?
 
