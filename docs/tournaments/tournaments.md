@@ -4,14 +4,14 @@ A strong competitive trading card game environment is something that us being lo
 
 ## Weekly Events
 
-Throughout the week players can come together at Port Town’s favorite pub ,The Bard and Brigand, to participate in a variety of different formats: competitive and casual. Entry costs and rewards will vary based on the event. Such rewards will include; card packs, our native in-game tokens, exclusive NFTs, in-game items, and much more. Our current list of formats include: 
+Throughout the week players can come together at Port Town’s favorite pub ,The Bard and Brigand, to participate in a variety of different formats: competitive and casual. Entry costs and rewards will vary based on the event. Such rewards will include; card packs, our native in-game tokens, exclusive cards, in-game items, and much more. Our current list of formats include: 
 Standard: The base ruleset of Runeguard. Games are played in a best of 3 format.
 Drafts: Players take turns selecting cards from booster packs to create a deck from cards outside their current collection. 
 Specialty Formats: TBA
 
 ## Prestige Tournaments
 
-For players who love high level competitive play and all the glory that comes with it we will be offering Prestige Tournaments. These tournaments will take place over the course of a weekend and require a higher entry fee than your scheduled weekly events. Players who do well in the tournament will find themselves with very exciting rewards; one example being an exclusive single print NFT for the tournament champion. Many more exciting rewards and things to come for our players who enjoy this play style. 
+For players who love high level competitive play and all the glory that comes with it we will be offering Prestige Tournaments. These tournaments will take place over the course of a weekend and require a higher entry fee than your scheduled weekly events. Players who do well in the tournament will find themselves with very exciting rewards; one example being an exclusive single print card for the tournament champion. Many more exciting rewards and things to come for our players who enjoy this play style. 
 
 Currently we have not established a schedule for this tournament format. We want to make sure we have enough players to populate such an event and have unique rewards that live up to the accomplishments of players.    
 
