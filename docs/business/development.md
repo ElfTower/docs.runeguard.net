@@ -8,9 +8,6 @@ We would be using HotStaq/Hotpreprocessor to develop and maintain the site. This
 
 With the test cases we can utilize monitoring services to ensure that our site is not only online, but operating the way it’s intended to be.
 
-## Tokens/NFTs Interactions
-For our tokens and NFTs, we would be utilizing OpenZepplin for development. This would allow us to ensure we’re using the latest security best practices, test cases, and deployments.
-
 ## Game Client
 We’ve selected Unity for our game development as it’s incredibly popular and powerful. It allows for easy web browser, iOS, and Android app building utilizing the same codebase and assets.
 
@@ -18,4 +15,4 @@ We’ve selected Unity for our game development as it’s incredibly popular and
 For the backend we would be utilizing some of Unity’s built non-graphical Linux binaries along with our server-side frameworks that would help us prevent cheating.
 
 ## Card Artwork
-We would be reaching out to our community to help us create these card artworks. We would incentivize them through offering our tokens and limited cash rewards.
+We would be reaching out to our community to help us create these card artworks.
