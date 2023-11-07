@@ -40,4 +40,6 @@ jobs:
         aws-region: ${{ secrets.AWS_DEFAULT_REGION }}
 
     - name: Sync files to S3
-      run: ./s3push.sh
+      run: |
+        ./s3push.sh
+        aws cloudfront create-invalidation --distribution-id "${{ secrets.AWS_CLOUDFRONT_DISTRIBUTION_ID }}" --paths "/*"
