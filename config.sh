@@ -1,5 +1,2 @@
-PROVIDER="us-central1-docker.pkg.dev"
-NAMESPACE="runeguard/runeguard-website"
-APP="docs"
-FULL_NAME="${PROVIDER}/${NAMESPACE}/${APP}"
+FULL_NAME="ghcr.io/elftower/runeguard-docs"
 VERSION="$(cat ./package.json | jq -r .version)"
